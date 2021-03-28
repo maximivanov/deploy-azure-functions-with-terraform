@@ -4,4 +4,4 @@
 .vscode
 local.settings.json
 test
-.terraform/*
+terraform/*
